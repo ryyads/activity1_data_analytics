@@ -8,4 +8,4 @@ Data Analytics for accident dates Dataset
 
 [Activity1](https://github.com/ryyads/activity1_data_analytics/blob/main/activity1.ipynb)
 
-[Activity2](https://github.com/ryyads/activity2_data-analytics/blob/main/activity2.ipynb)
+[Activity2](https://github.com/ryyads/activity1_data_analytics/blob/main/activity2.ipynb)
