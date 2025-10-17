@@ -12,4 +12,6 @@ Description
 Data analytics for chicago_2001_present data set with 37 insights
 [midterms_exams](https://github.com/ryyads/activity1_data_analytics/blob/main/MIDTERM_EXAM.ipynb)
 
-
+Description
+Data analytics for Dengue data set with 16 insights
+[Activity3](https://github.com/ryyads/activity1_data_analytics/blob/main/activity3.ipynb)
