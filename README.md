@@ -23,4 +23,9 @@ Data analytics for Data Science salary prediction with linear reggression
 Description
 Data Analytics for TitanicSurvavility_MachineLearning and Machine_Learning_Exercise1
 [TitanicSurvavility_MachineLearning](https://github.com/ryyads/activity1_data_analytics/blob/main/TitanicSurvavility_MachineLearning.ipynb)
+
 [Machine_Learning_Exercise1](https://github.com/ryyads/activity1_data_analytics/blob/main/Machine_Learning_Exercise1-Copy1%20(4).ipynb)
+
+Description
+Data Analytics and visualization for family income and expidenture with 10 insights
+[project7](https://github.com/ryyads/activity1_data_analytics/blob/main/project7_family-income-expidenture.pbix)
